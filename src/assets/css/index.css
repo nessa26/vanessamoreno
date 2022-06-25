@@ -1,0 +1,31 @@
+.icono_img{
+    width: 2rem;
+    margin-right: 2em;
+}
+
+.sub_titles{
+    text-align: justify;
+}
+
+.symbol{
+    margin-left: 0.5rem;
+    font-size: 15px;
+    color: rgb(170, 170, 166);
+    text-transform: uppercase;
+}
+
+.text{
+    text-align: justify;
+}
+
+.min_container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+}
+
+i{
+    color: rgb(105, 105, 105);
+}
